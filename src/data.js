@@ -1,26 +1,27 @@
-export const faqsData =[
+export const blogsData =[
     {
         id:1,
-        title:"How can we reach you",
-        desc:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        title:"html",
+        body:" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum, pariatur perferendis illo id eveniet incidunt maiores labore sapiente eaque sunt dignissimos exercitationem laboriosam ipsum illum minus doloribus amet consequuntur sint! Quis sit corporis debitis hic dignissimos doloribus recusandae veniam explicabo quos voluptas excepturi nesciunt omnis, iusto fuga quas corrupti alias ea nisi, nulla eveniet deserunt quod saepe. Iusto, cum adipisci. Dolorem voluptatem in tempore, minus beatae, nostrum accusamus, nobis eum dicta quaerat asperiores mollitia. Nam rerum voluptatibus eligendi, officia quas facilis enim sint accusantium aspernatur impedit voluptatum, fugiat a deserunt quibusdam ullam hic labore! Rem corrupti aspernatur provident nesciunt aliquid."
     },
     {
         id:2,
-        title:"How can we reach you",
-        desc:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        title:"css",
+        body:" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum, pariatur perferendis illo id eveniet incidunt maiores labore sapiente eaque sunt dignissimos exercitationem laboriosam ipsum illum minus doloribus amet consequuntur sint! Quis sit corporis debitis hic dignissimos doloribus recusandae veniam explicabo quos voluptas excepturi nesciunt omnis, iusto fuga quas corrupti alias ea nisi, nulla eveniet deserunt quod saepe. Iusto, cum adipisci. Dolorem voluptatem in tempore, minus beatae, nostrum accusamus, nobis eum dicta quaerat asperiores mollitia. Nam rerum voluptatibus eligendi, officia quas facilis enim sint accusantium aspernatur impedit voluptatum, fugiat a deserunt quibusdam ullam hic labore! Rem corrupti aspernatur provident nesciunt aliquid."
     },
     {
         id:3,
-        title:"How can we reach you",
-        desc:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-    },  {
+        title:"javascript",
+        body:"javascript  dolor sit, amet consectetur adipisicing elit. Laborum, pariatur perferendis illo id eveniet incidunt maiores labore sapiente eaque sunt dignissimos exercitationem laboriosam ipsum illum minus doloribus amet consequuntur sint! Quis sit corporis debitis hic dignissimos doloribus recusandae veniam explicabo quos voluptas excepturi nesciunt omnis, iusto fuga quas corrupti alias ea nisi, nulla eveniet deserunt quod saepe. Iusto, cum adipisci. Dolorem voluptatem in tempore, minus beatae, nostrum accusamus, nobis eum dicta quaerat asperiores mollitia. Nam rerum voluptatibus eligendi, officia quas facilis enim sint accusantium aspernatur impedit voluptatum, fugiat a deserunt quibusdam ullam hic labore! Rem corrupti aspernatur provident nesciunt aliquid."
+    },
+    {
         id:4,
-        title:"How can we reach you",
-        desc:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        title:"Boostrap",
+        body:" Boostrap ipsum dolor sit, amet consectetur adipisicing elit. Laborum, pariatur perferendis illo id eveniet incidunt maiores labore sapiente eaque sunt dignissimos exercitationem laboriosam ipsum illum minus doloribus amet consequuntur sint! Quis sit corporis debitis hic dignissimos doloribus recusandae veniam explicabo quos voluptas excepturi nesciunt omnis, iusto fuga quas corrupti alias ea nisi, nulla eveniet deserunt quod saepe. Iusto, cum adipisci. Dolorem voluptatem in tempore, minus beatae, nostrum accusamus, nobis eum dicta quaerat asperiores mollitia. Nam rerum voluptatibus eligendi, officia quas facilis enim sint accusantium aspernatur impedit voluptatum, fugiat a deserunt quibusdam ullam hic labore! Rem corrupti aspernatur provident nesciunt aliquid."
     },
     {
         id:5,
-        title:"How can we reach you",
-        desc:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        title:"React",
+        body:" reaxe ipsum dolor sit, amet consectetur adipisicing elit. Laborum, pariatur perferendis illo id eveniet incidunt maiores labore sapiente eaque sunt dignissimos exercitationem laboriosam ipsum illum minus doloribus amet consequuntur sint! Quis sit corporis debitis hic dignissimos doloribus recusandae veniam explicabo quos voluptas excepturi nesciunt omnis, iusto fuga quas corrupti alias ea nisi, nulla eveniet deserunt quod saepe. Iusto, cum adipisci. Dolorem voluptatem in tempore, minus beatae, nostrum accusamus, nobis eum dicta quaerat asperiores mollitia. Nam rerum voluptatibus eligendi, officia quas facilis enim sint accusantium aspernatur impedit voluptatum, fugiat a deserunt quibusdam ullam hic labore! Rem corrupti aspernatur provident nesciunt aliquid."
     }
 ]
